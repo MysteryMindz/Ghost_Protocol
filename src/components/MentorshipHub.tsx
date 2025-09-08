@@ -11,7 +11,7 @@ function MentorshipHub({ currentUser }: MentorshipHubProps) {
   const mentors = [
     {
       id: 1,
-      name: 'Dr. Sarah Johnson',
+      name: 'Nikil Allen R',
       expertise: 'Machine Learning & AI',
       rating: 4.9,
       sessions: 156,
