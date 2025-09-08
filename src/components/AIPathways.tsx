@@ -30,7 +30,7 @@ function AIPathways({ currentUser }: AIPathwaysProps) {
         'Python for AI'
       ],
       mentors: [
-        { name: 'Dr. Sarah Johnson', expertise: 'AI/ML' },
+        { name: 'Nikil Allen', expertise: 'AI/ML' },
         { name: 'Mike Chen', expertise: 'Full-Stack' }
       ]
     },
